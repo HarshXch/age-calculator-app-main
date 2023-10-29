@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+# Age Calculator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🕒 Calculate your age with this simple Age Calculator built using React.js, Tailwind CSS, and Framer Motion.
 
-## Available Scripts
+## Preview
 
-In the project directory, you can run:
+<div style="display: grid; justify-items: center;">
+  <img src="design/../public/design/desktop-preview.jpg" alt="Project Preview" style="width: 100%; height: auto; border-radius: 5px;">
+</div>
 
-### `npm start`
+🧮 A simple Age Calculator that computes your age based on the date of birth provided.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Description
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🚀 This project was undertaken to build a straightforward Age Calculator, providing users with an easy way to determine their age.
 
-### `npm test`
+## Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+✨ Simple and intuitive UI for inputting the date of birth.
+✨ Real-time computation of the user's age based on the input.
+✨ Smooth and responsive design suitable for various screen sizes.
 
-### `npm run build`
+## Technologies Used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- ⚛️ React.js for building the user interface
+- 🎨 Tailwind CSS for streamlined styling
+- 🚀 Framer Motion for subtle and elegant animations
+- ⚙️ Semantic HTML5 markup
+- 🎨 CSS custom properties
+- 🌟 Flexbox
+- 📊 CSS Grid
+- 📱 Mobile-first workflow
+- 💻 JavaScript for age calculation
+- 🖥️ HTML for structuring
+- 🎨 CSS for styling
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Challenges Faced
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Implementing a dynamic age calculation based on the user's input
+- Ensuring a seamless user experience across different devices and screen sizes
 
-### `npm run eject`
+## Usage
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Clone the repository: `git clone https://github.com/HarshXch/age-calculator-app-main.git`
+2. Install dependencies: `npm install`
+3. Run the development server: `npm start`
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contributing
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+🤝 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/HarshXch/age-calculator-app-main/issues).
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## License
 
-## Learn More
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Acknowledgements
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+🙏 Special thanks to [Frontend Mentor](https://www.frontendmentor.io/) for providing the inspiration for this project.
