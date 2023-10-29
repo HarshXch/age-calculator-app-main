@@ -179,7 +179,7 @@ function App() {
 				<div className="flex relative h-16  w-full items-center justify-center">
 					<hr className="border-1 flex-1 border-gray-300" />
 					<div
-						className="flex absolute lg:relative justify-center items-center p-2 h-20 w-20 rounded-full bg-black"
+						className="flex absolute lg:relative justify-center items-center p-2 h-20 w-20 rounded-full bg-purple-600 hover:bg-black"
 						onClick={calculateAge}>
 						<img
 							src="/assets/images/icon-arrow.svg"
